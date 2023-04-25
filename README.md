@@ -10,6 +10,9 @@ Es un regalo para Jeni en agradecimiento por las cosas vividas...
 
 Aquí se presentan algunas imágenes y videos del proyecto:
 
+### Proyecto terminado
+![Proyecto terminado](./imagenes/1682466592700.jpg "Proyecto terminado")
+
 ### Tanque original de agua recien impreso
 ![Tanque original de agua recien impreso](./imagenes/20220806_100245.jpg "Tanque original de agua recien impreso")
 
