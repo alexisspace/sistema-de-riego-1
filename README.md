@@ -1,6 +1,6 @@
 # Sistema de riego para planta decorativa
 
-Este es un sistema de riego de una planta decorativa que posee su tanque y bomba de agua, sensor de luz, luces y sensor de líquido en el tanque, controlado por un Arduino Nano, el código está en el archivo "sistema-de-riego-v1.ino"
+Este es un sistema de riego de una planta decorativa que posee su tanque y bomba de agua, sensor de luz, luces y sensor de líquido en el tanque, controlado por un Arduino Nano, el código está en el archivo [sistema-de-riego-v1.ino](./sistema-de-riego-v1.ino)
 
 ## Agradecimiento
 
