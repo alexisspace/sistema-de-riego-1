@@ -28,11 +28,14 @@ Aquí se presentan algunas imágenes y videos del proyecto:
 ### Random closed-up de la electrónica
 ![Random closed-up de la electrónica](./imagenes/IMG_20230411_110534.jpg "Random closed-up de la electrónica")
 
-### Imprimiendo una parte de una pieza para pruebas
+### Video -> Imprimiendo una parte de una pieza para pruebas
 [Pieza de prueba](https://photos.app.goo.gl/bVJ7gAGXdVgRhoGr6)
 
-### Cuando construía el modelo 3D en la computadora (1)
+### Video -> Proyecto terminado
+[Proyecto terminado](https://photos.app.goo.gl/sKBf54waff4WpT199)
+
+### Video -> Cuando construía el modelo 3D en la computadora (1)
 ![Cuando construía el modelo 3D en la computadora (1)](./imagenes/20220824_193628.mp4 "Cuando construía el modelo 3D en la computadora (1)")
 
-### Cuando construía el modelo 3D en la computadora (2)
+### Video -> Cuando construía el modelo 3D en la computadora (2)
 ![Cuando construía el modelo 3D en la computadora (2)](./imagenes/20220912_152014.mp4 "Cuando construía el modelo 3D en la computadora (2)")
